@@ -9,6 +9,7 @@ import android.util.Log;
 public class Demo2 {
     public void newDemo(){
         Log.e("TAG","只代表第五次提交代码");
+        Log.e("TAG","只代表第五次提交代码");
     }
 
 }
